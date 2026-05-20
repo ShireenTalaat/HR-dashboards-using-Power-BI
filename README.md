@@ -12,7 +12,7 @@ This Power BI project delivers a comprehensive HR analytics dashboard designed t
 
 The HR Analytics Power BI Dashboard leverages a star schema data model to integrate various HR datasets. Data is extracted from Excel files, transformed using Power Query (M), and loaded into Power BI Desktop. DAX (Data Analysis Expressions) is utilized to create custom measures and calculated columns, enabling advanced analytics and interactive reporting. The dashboard is designed for intuitive navigation, allowing users to explore data from high-level KPIs down to granular employee details.
 
-![HR Analytics Dashboard Architecture](hr_dashboard_architecture.png)
+![hr_dashboard_architecture.png](https://github.com/ShireenTalaat/HR-Analytics-PowerBI-Dashboard/blob/c2faae1dfa6169ca0f7551269ebd3f37c774add5/HR.jpg))
 
 ## Technologies Used
 
